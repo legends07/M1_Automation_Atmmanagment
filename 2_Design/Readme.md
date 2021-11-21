@@ -10,5 +10,5 @@
 
 
 ## Use Case Diagram
-![Use Diagram](https://lh3.googleusercontent.com/proxy/49ynpWsSDA-vduqFaj0u24rXRxku9j86xGXDCzYlB8gZz-sHEBjyXv0IGzJCOaPZfa3cORUzsH9kuxifkjyedvbkFGH_d7i-9Gc45Q_Nl6fAas9O0tUFBzWZHg)
+![Use Diagram](https://conceptdraw.com/a3141c3/p1/preview/640/pict--bank-atm-uml-sequence-diagram-bank-atm-use-case-diagram.png--diagram-flowchart-example.png)
 
