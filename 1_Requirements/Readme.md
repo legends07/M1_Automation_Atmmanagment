@@ -20,7 +20,7 @@ ATMs are known in different parts of the world as automated bank machines (ABM) 
 
 
 ## Defining Our System
-![Defining Our System](https://images.ctfassets.net/vrrt8fsfwf0e/1mW2oJMLUdD3Jr5Ad9s7Uk/a76b1623289421ba4135b1730bbfa36b/Automatic_Teller_Machines__ATMs__art_1.svg)
+![Defining Our System](https://d3i71xaburhd42.cloudfront.net/a9b3c51bba1e496ae01e222d9a06eee1df80c62a/2-Figure2-1.png)
 
   - Although the design of each ATM is different, they all contain the same basic parts:
   - Card reader: This part reads the chip on the front of the card or the magnetic stripe on the back of the card. 
