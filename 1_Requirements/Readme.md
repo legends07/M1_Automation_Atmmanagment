@@ -30,6 +30,14 @@ ATMs are known in different parts of the world as automated bank machines (ABM) 
   - Printer: If required, consumers can request receipts that are printed here. The receipt records the type of transaction, the amount, and the account balance.
   - Screen: The ATM issues prompts that guide the consumer through the process of executing the transaction. Information is also transmitted on the screen, such as account information and balances.
 
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Design`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_TestplanAnd Output`      | Documents with test plans and procedures
+
   
 ## Cost and Features
 
