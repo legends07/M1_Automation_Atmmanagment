@@ -1,6 +1,12 @@
 # M1_Automation_Atmmanagment
 
+## Code Inspector
 
+[![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/M1_Application_Voting/dashboard)
+
+![Qyality grade](https://www.code-inspector.com/project/27819/status/svg)
+
+# ATM_Management_System Using C
 
 ## Introduction
 ![Intruduction](https://cdn.pixabay.com/photo/2016/07/17/22/06/atm-1524870__480.jpg)
